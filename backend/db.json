@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "name": "Giovanni",
+      "name": "Giovanni Almeida",
       "email": "giovanni@gmail.com"
     },
     {
@@ -11,9 +11,9 @@
       "email": "eloisa@gmail.com"
     },
     {
-      "name": "Giovanni",
-      "email": "geu@gmail.com",
-      "id": 3
+      "name": "Elaine",
+      "email": "elaine@hotmail.com",
+      "id": 4
     }
   ]
 }
